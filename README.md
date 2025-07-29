@@ -2,35 +2,57 @@
 
 ![Shuttle Logo](./logo.png)
 
-## 🚀 Overview
-
-**Shuttle News** is a responsive, real-time news web application that fetches and displays current news articles based on category or user search. Built using HTML, CSS, and JavaScript, it interacts with the [NewsAPI](https://newsapi.org/) to dynamically show the latest headlines on topics like IPL, Finance, Politics, and more.
-
----
-
-## 🌐 Live Demo
-
-> Coming Soon — Deploy it on [Netlify](https://www.netlify.com/) or [GitHub Pages](https://pages.github.com/)
+### 🔹 Overview
+During my remote internship at **J&B Private Limited**, I contributed to the development of a fully responsive and interactive web application that integrated live data from public APIs. The primary focus was on enhancing the **user experience**, implementing smooth UI interactions, and ensuring mobile responsiveness.
 
 ---
 
-## 🛠️ Features
-
-- 🔍 **Search Functionality** – Users can search for news by keyword (e.g., "science", "technology").
-- 📚 **Predefined Categories** – Quick access to IPL, Finance, and Politics news.
-- ⚡ **Dynamic News Cards** – News updates are displayed as stylish cards using a template.
-- 📱 **Responsive UI** – Mobile-friendly layout built with Flexbox.
-- 📰 **Real-Time API Integration** – Powered by NewsAPI for up-to-date headlines.
-- ✨ **Hover and Active States** – Smooth UX with interactive visual effects.
+## 🌐 Internship Experience – Web Developer Intern  
+**Company:** J&B Private Limited (Remote)  
+**Duration:** September 2024 – November 2024  
+**Role:** Web Developer Intern  
+**Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Fetch API, Public APIs  
 
 ---
 
-## 🧰 Tech Stack
+### ✅ Key Responsibilities & Learnings
 
-| Layer | Tools Used |
-|-------|-------------|
-| Frontend | HTML5, CSS3, JavaScript |
-| API | [NewsAPI](https://newsapi.org/) |
-| Icons/Fonts | Google Fonts (`Poppins`, `Roboto`) |
+#### 🎨 Frontend Development
+- Designed clean and responsive UI layouts using **HTML5** and **CSS3**.
+- Implemented modern, mobile-first web design techniques for cross-device compatibility.
+- Ensured pixel-perfect rendering across different screen sizes and browsers.
+
+#### ⚙️ JavaScript & API Integration
+- Utilized **JavaScript ES6+** features such as arrow functions, promises, and modules to write clean, modular code.
+- Integrated **real-time public APIs** using the **Fetch API** to display dynamic data (e.g., weather, news, or e-commerce content).
+- Handled API errors, loading states, and user feedback with custom logic.
+
+#### 🧭 User Experience Enhancements
+- Added smooth navigation with scroll effects and sticky headers.
+- Developed **category-based dynamic filtering** to improve content accessibility.
+- Applied interactive elements like modals, accordions, and animated buttons for an engaging UI.
+
+---
+
+### 🏁 Outcome & Impact
+- Delivered a fully functional and visually appealing web application.
+- Gained hands-on experience with **modern JavaScript**, **API consumption**, and **responsive design**.
+- Strengthened practical skills in **web performance optimization**, **code readability**, and **user-centric design**.
+
+---
+
+### 📂 Project Highlights
+- **Mobile Responsive:** Layout adapts to smartphones, tablets, and desktops
+- **API-Driven:** Dynamic content updates from real-time public APIs
+- **Interactive UI:** Smooth animations and filtering logic for better engagement
+
+---
+
+### 📚 What I Learned
+- Practical implementation of **Fetch API** and async JS patterns  
+- Creating interactive and accessible **user interfaces**  
+- Debugging real-world issues in API responses and layout behavior  
+- Writing clean, modular, and reusable frontend code  
+
 
 ---
