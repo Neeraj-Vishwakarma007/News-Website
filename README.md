@@ -1,7 +1,3 @@
-# 📰 Shuttle News - Real-Time News Web App
-
-![Shuttle Logo](./logo.png)
-
 ### 🔹 Overview
 During my remote internship at **J&B Private Limited**, I contributed to the development of a fully responsive and interactive web application that integrated live data from public APIs. The primary focus was on enhancing the **user experience**, implementing smooth UI interactions, and ensuring mobile responsiveness.
 
