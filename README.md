@@ -1,16 +1,3 @@
-### 🔹 Overview
-During my remote internship at **J&B Private Limited**, I contributed to the development of a fully responsive and interactive web application that integrated live data from public APIs. The primary focus was on enhancing the **user experience**, implementing smooth UI interactions, and ensuring mobile responsiveness.
-
----
-
-## 🌐 Internship Experience – Web Developer Intern  
-**Company:** J&B Private Limited (Remote)  
-**Duration:** September 2024 – November 2024  
-**Role:** Web Developer Intern  
-**Tech Stack:** HTML5, CSS3, JavaScript (ES6+), Fetch API, Public APIs  
-
----
-
 ### ✅ Key Responsibilities & Learnings
 
 #### 🎨 Frontend Development
